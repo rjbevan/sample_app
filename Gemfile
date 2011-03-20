@@ -14,6 +14,9 @@ end
 group :test do
   gem 'rspec'
   gem 'webrat'
+  gem 'ZenTest'
+  gem 'autotest'
+  gem 'autotest-growl'
 end
 
 # Use unicorn as the web server
